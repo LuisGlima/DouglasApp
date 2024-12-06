@@ -18,4 +18,6 @@ Com ele, você pode:
 * **Dart:** Linguagem de programação utilizada pelo Flutter.
 * **Shared Preferences:** Armazenamento local de dados simples.
 
-##
+## Intregrante:
+
+*  **Luis Gustavo Gomes de Lima Junior**
